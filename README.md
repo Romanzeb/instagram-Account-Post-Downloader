@@ -16,3 +16,5 @@ To run this project, you need the following Python libraries:
 You can install the required libraries using the following command:
 ```bash
 pip install instaloader pillow
+
+## Installation
